@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">📊 Status/h2>
+<h2 align="left">📊 Status</h2>
 
 ###
 
