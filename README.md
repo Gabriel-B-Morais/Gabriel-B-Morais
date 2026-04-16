@@ -11,6 +11,7 @@ Web developer with a strong foundation in Information Technology, experienced in
 ![](https://github-readme-stats.shion.dev/api?username=Gabriel-B-Morais&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Gabriel-B-Morais&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gabriel-B-Morais&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-B-Morais/Gabriel-B-Morais/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-B-Morais/Gabriel-B-Morais/output/pacman-contribution-graph.svg">
