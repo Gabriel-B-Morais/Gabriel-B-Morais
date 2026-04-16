@@ -16,7 +16,9 @@ Web developer with a strong foundation in Information Technology, experienced in
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-B-Morais/Gabriel-B-Morais/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabriel-B-Morais/Gabriel-B-Morais/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
+
 [![](https://komarev.com/ghpvc/?username=Gabriel-B-Morais&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
